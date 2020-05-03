@@ -1,0 +1,6 @@
+projectKey=com.jiban:data-structures-stack
+serverUrl=http://localhost:9010
+serverVersion=7.9.2.30863
+dashboardUrl=http://localhost:9010/dashboard?id=com.jiban%3Adata-structures-stack
+ceTaskId=AXCK1SXoEC4n9wkt0HOe
+ceTaskUrl=http://localhost:9010/api/ce/task?id=AXCK1SXoEC4n9wkt0HOe
